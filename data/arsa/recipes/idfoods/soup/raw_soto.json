@@ -7,7 +7,7 @@
 	],
 	"key": {
 	"W": {
-	"item": "minecraft:water_bucket"
+	"item": "minecraft:water_bottle"
 	},
 	"E": { 
 	"item": "minecraft:egg"
@@ -17,6 +17,9 @@
 	},
 	"S": {
 	"item": "minecraft:sugar"
+	}, 
+	"B": {
+	"item": "minecraft:bowl"
 	}
 },
 "result": {
