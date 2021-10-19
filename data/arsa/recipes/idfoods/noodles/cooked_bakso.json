@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+      "item": "bakso"
+    },
+    "result": "cooked_bakso",
+    "experience": 0.35,
+    "cookingtime": 500
+  }
