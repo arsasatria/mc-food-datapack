@@ -1,27 +1,22 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-	"AWA",
-	"ECS",
-	"ABA"
-	],
-	"key": {
-	"W": {
+	"type": "crafting_shapeless",
+	"ingredients": {
+	{
 	"item": "minecraft:water_bottle"
 	},
-	"E": { 
+	 { 
 	"item": "minecraft:egg"
 	}, 
-	"C": {
+	{
 	"item": "minecraft:cooked_chicken"
 	},
-	"S": {
+	 {
 	"item": "minecraft:sugar"
 	}, 
-	"B": {
+	 {
 	"item": "minecraft:bowl"
-	}
-},
+	},
+}
 "result": {
 	"item": "minecraft:knowledge_book"
 }
