@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:raw_soto"
+  },
+  "result": "minecraft:soto",
+  "experience": 0.35,
+  "cookingtime": 10000,
+}
