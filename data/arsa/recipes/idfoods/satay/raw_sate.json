@@ -1,1 +1,19 @@
-
+{
+	"type": "crafting_shaped",
+	"pattern": [
+	"ASA",
+	"ASA",
+	"ATA"
+	],
+	"key": {
+	"S": {
+	"item": "minecraft:steak"
+	},
+	"T": { 
+	"item": "minecraft:stick"
+	}
+},
+"result": {
+	"item": "minecraft:knowledge_book"
+}
+}
